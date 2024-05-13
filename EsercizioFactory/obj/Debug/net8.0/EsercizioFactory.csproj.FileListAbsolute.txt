@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\bin\Debug\net8.0\EsercizioFactory.exe
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\bin\Debug\net8.0\EsercizioFactory.deps.json
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\bin\Debug\net8.0\EsercizioFactory.runtimeconfig.json
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\bin\Debug\net8.0\EsercizioFactory.dll
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\bin\Debug\net8.0\EsercizioFactory.pdb
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.AssemblyInfo.cs
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.dll
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\refint\EsercizioFactory.dll
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.pdb
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\EsercizioFactory.genruntimeconfig.cache
+C:\Users\manue\source\repos\EsercizioFactory\EsercizioFactory\obj\Debug\net8.0\ref\EsercizioFactory.dll
